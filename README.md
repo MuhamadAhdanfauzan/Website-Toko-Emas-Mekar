@@ -35,4 +35,4 @@ Tujuan dari pengembangan website ini adalah memberikan:
 ## 🚀 Cara Menjalankan Website
 1. Clone repository ini  
    ```bash
-   git clone https://github.com/nightrunners02/Toko-Emas-Mekar_Website.git
+   https://github.com/MuhamadAhdanfauzan/Website-Toko-Emas-Mekar.git
