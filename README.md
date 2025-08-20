@@ -1,38 +1,38 @@
-- Preview Website: https://nightrunners02.github.io/Toko-Emas-Mekar_Website/
+- Preview Website: https://muhamadahdanfauzan.github.io/Contoh-Tampilan-Preview-Web-Toko-Emas-mekar/
 ---
-<details> 
-  <summary>
-  <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
-  </summary>
 
-<p>
-<div align="center">
-<h3>
-  🗣️ Powered By:
-</h3>
-<img src="https://awesome-svg.vercel.app/card/card_2?name=NightRunners02&summary=Newbie%20Developer&style=nameColor:rgba(223,255,0,1);summaryColor:rgba(57,255,20,1);backgroundColor:rgba(0,0,0,1);" />
+# 💎 Website Toko Emas Mekar
 
----
-<h3>
-  🌠 Starred:
-</h3>
-  
-[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/Toko-Emas-Mekar_Website)](https://github.com/NightRunners02/Toko-Emas-Mekar_Website/stargazers)
+Website **Toko Emas Mekar** ini dikembangkan sebagai platform digital untuk memperluas layanan dan jangkauan pelanggan secara online.  
+Melalui website ini, pelanggan dapat dengan mudah menjelajahi katalog berbagai jenis dan bentuk perhiasan emas hasil karya sendiri,  
+melakukan pemesanan custom sesuai kebutuhan, serta memanfaatkan layanan tambahan seperti desain khusus dan jasa cuci perhiasan agar tetap terjaga keindahannya.  
+
+Tujuan dari pengembangan website ini adalah memberikan:
+- ✅ Kemudahan akses bagi pelanggan dalam memilih produk
+- ✅ Fasilitas transaksi yang lebih praktis
+- ✅ Layanan berkualitas yang transparan dan terpercaya
+- ✅ Penguatan citra **Toko Emas Mekar** sebagai penyedia perhiasan modern
 
 ---
-<h3>
-  🪐 Forked:
-</h3>
 
-[![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/Toko-Emas-Mekar_Website)](https://github.com/NightRunners02/Toko-Emas-Mekar_Website/network/members)
+## 🛠️ Teknologi yang Digunakan
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Hosting**: GitHub Pages / Web Hosting berbasis PHP  
 
 ---
-<h3>
-  💫 Star History:
-</h3>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/Toko-Emas-Mekar_Website&type=Date)](https://star-history.com/#NightRunners02/Toko-Emas-Mekar_Website&Date)
+## 📌 Fitur Utama
+- 📂 **Katalog Produk**: Menampilkan koleksi perhiasan emas dengan berbagai jenis & bentuk  
+- ✨ **Custom Order**: Pelanggan dapat memesan desain perhiasan sesuai keinginan  
+- 🧼 **Jasa Cuci Perhiasan**: Menyediakan layanan perawatan agar emas tetap berkilau  
+- 📰 **Informasi & Promo**: Publikasi berita, promo, dan informasi toko  
+- 📱 **Responsive Design**: Tampilan optimal untuk desktop maupun perangkat mobile  
 
-</p>
-</div>
-</details>
+---
+
+## 🚀 Cara Menjalankan Website
+1. Clone repository ini  
+   ```bash
+   git clone https://github.com/nightrunners02/Toko-Emas-Mekar_Website.git
